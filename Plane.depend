@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1682404584 source:e:\ltncvnu\sdl2\plane\bullet.cpp
+	"bullet.h"
+
+1682914292 e:\ltncvnu\sdl2\plane\bullet.h
+	"LTexture.h"
+	"common.h"
+
+1682823655 e:\ltncvnu\sdl2\plane\ltexture.h
+	<bits/stdc++.h>
+	"common.h"
+
+1682936487 e:\ltncvnu\sdl2\plane\common.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<bits/stdc++.h>
+	"LTexture.h"
+	"TextObject.h"
+
+1682992497 source:e:\ltncvnu\sdl2\plane\common.cpp
+	"common.h"
+
+1682992674 source:e:\ltncvnu\sdl2\plane\ltexture.cpp
+	"LTexture.h"
+
+1682991177 source:e:\ltncvnu\sdl2\plane\main.cpp
+	"LTexture.h"
+	"Dot.h"
+	"common.h"
+	"bullet.h"
+	"Theat.h"
+	"PlayerPower.h"
+	"TextObject.h"
+
+1682914292 e:\ltncvnu\sdl2\plane\dot.h
+	"LTexture.h"
+	"bullet.h"
+	"common.h"
+
+1682992238 source:e:\ltncvnu\sdl2\plane\dot.cpp
+	"common.h"
+	"Dot.h"
+
+1682826343 source:e:\ltncvnu\sdl2\plane\theat.cpp
+	"Theat.h"
+	"bullet.h"
+
+1682914292 e:\ltncvnu\sdl2\plane\theat.h
+	"common.h"
+	"LTexture.h"
+	"bullet.h"
+
+1682610962 e:\ltncvnu\sdl2\plane\playerpower.h
+	"LTexture.h"
+	<vector>
+
+1682821005 source:e:\ltncvnu\sdl2\plane\playerpower.cpp
+	"PlayerPower.h"
+	"common.h"
+
+1682991657 source:e:\ltncvnu\sdl2\plane\textobject.cpp
+	"TextObject.h"
+
+1682992674 e:\ltncvnu\sdl2\plane\textobject.h
+	"LTexture.h"
+
